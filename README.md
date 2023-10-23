@@ -1,2 +1,2 @@
-# BlogList
+# blog-list
  
